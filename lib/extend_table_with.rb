@@ -1,0 +1,5 @@
+require File.dirname(__FILE__) + '/extend_table_with/table_extension'
+require File.dirname(__FILE__) + '/extend_table_with/connection_adapter'
+require File.dirname(__FILE__) + '/extend_table_with/schema_dumper'
+require File.dirname(__FILE__) + '/extend_table_with/serialization'
+require File.dirname(__FILE__) + '/extend_table_with/base'
